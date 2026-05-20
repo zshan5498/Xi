@@ -1,0 +1,6 @@
+{
+  "name": "Luxora UI",
+  "description": "Luxury crystal-glass smartphone UI prototype featuring elegant animations, glassmorphism, and a futuristic aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
